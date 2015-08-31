@@ -1,0 +1,23 @@
+{
+  "name": "computer-science-in-javascript",
+  "version": "1.0.0",
+  "description": "Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript. All of the code is available under an MIT License.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bassettsj/computer-science-in-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bassettsj/computer-science-in-javascript/issues"
+  },
+  "homepage": "https://github.com/bassettsj/computer-science-in-javascript#readme",
+  "devDependencies": {
+    "babel": "^5.8.23",
+    "tape": "^4.2.0"
+  }
+}
